@@ -8,7 +8,7 @@
 - 联调完成后，发送邮件告知上线时间，配合完成上线。
 
 ## API手册
-请查看[API在线手册](https://wallet.bix360.com/api/escrow-api-zh-v1.0.html)
+请查看：[API在线手册](https://wallet.bix360.com/api/escrow-api-zh-v1.0.html)
 
 ## 服务环境
 |环境          |      CBW服务地址
