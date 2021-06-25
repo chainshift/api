@@ -18,7 +18,8 @@
 
 ## SDK
 - Java：[CBW-SDK-Java](https://github.com/chainshift/cbw-java-sdk)
-- JS： [暂未开放](#)
+- CSharp：[暂未开放](#)
+- JS：[暂未开放](#)
 
 ## 联系我们
-- Email: cbw-dev@chainshift.org
+Email: cbw-dev@chainshift.org
